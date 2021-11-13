@@ -5,7 +5,7 @@
 B-Care is a platform that hopes to help traditional and non-traditional collectives affected in any level by breast cancer. The platform aims to foment breast cancer awareness while creating a save space for its users to share their stories and be heard.
 
 <div style="width:80%; height:300px;">
-<img src="readme/image.png" alt="page-index">
+<img src="B-care/readme/image.png" alt="home page">
 </div>
 
 ## User Experience (UX)
@@ -54,6 +54,6 @@ B-Care is a platform that hopes to help traditional and non-traditional collecti
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 <div style="width:80%;>
-<img src="readme/navbar.png" alt="page-index">alt="navigation bar">
+<img src="B-Care/readme/navbar.png" alt="navigation bar">
 </div>
 
